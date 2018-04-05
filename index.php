@@ -1,4 +1,6 @@
 <?php 
+// From date to Date get exclude week ends and holidays 
+
  /*You take your start date and calculate the rest time on this day (if it is a business day)
  You take your end date and calculate the time on this day and
  take the days in between and multiply them with your business hours (just those,   that are business days)
